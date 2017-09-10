@@ -2,4 +2,4 @@
 my first repository
 
 bla bla bla
-interesting
+interesting!
